@@ -1,4 +1,4 @@
-# Natours
+# Trillo
 Static website
 
 Technologies:
